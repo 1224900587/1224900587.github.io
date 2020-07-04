@@ -3,5 +3,18 @@
   
   
   
+  <entry>
+    <title>第一次使用hexo踩的坑</title>
+    <link href="/2020/07/04/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8hexo%E8%B8%A9%E7%9A%84%E5%9D%91/"/>
+    <url>/2020/07/04/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8hexo%E8%B8%A9%E7%9A%84%E5%9D%91/</url>
+    
+    <content type="html"><![CDATA[<p><strong>第一个错误</strong></p><p>在创建github库的时候取名字犯了一个很严重的错误,就是没有把库的名字取成自己账号的名字 后面才发现这是使用hexo部署到github上面必须要有的格式.github库取名的格式应该是:</p><blockquote><p>github账号名称.+gitub.io</p></blockquote><p><strong>第二个错误</strong></p><p>在设置_config.yml文件里的deploy下面属性冒号后面要加一个空格.</p><h1 id="总结-看东西还是要仔细-要不就会和我一样-没有看到github库取名规则反反复复试了很多遍"><a href="#总结-看东西还是要仔细-要不就会和我一样-没有看到github库取名规则反反复复试了很多遍" class="headerlink" title="总结:看东西还是要仔细,要不就会和我一样,没有看到github库取名规则反反复复试了很多遍"></a>总结:看东西还是要仔细,要不就会和我一样,没有看到github库取名规则反反复复试了很多遍</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
